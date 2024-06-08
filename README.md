@@ -10,16 +10,25 @@ Hello! I'm Oussama, a passionate Full Stack Developer specializing in building d
 ## 🛠️ Skills
 
 ### Frontend
-**HTML** | **CSS/Bootstrap** | **JavaScript** | **Angular** | **React**
+- **HTML**
+- **CSS/Bootstrap**
+- **JavaScript**
+- **Angular**
+- **React**
 
 ### Backend
-**Java / Spring Boot** | **Python / Flask & Django** | **MERN / ExpressJS** | **Microservices**
+- **Java / Spring Boot**
+- **Python / Flask & Django**
+- **MERN / ExpressJS**
+- **Microservices**
 
 ### Database
-**MySQL** | **MongoDB**
+- **MySQL**
+- **MongoDB**
 
 ## 📈 GitHub Stats
 ![Oussama's GitHub stats](https://github-readme-stats.vercel.app/api?username=BellamineOussama&show_icons=true&theme=radical)
+
 
 ## 📊 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BellamineOussama&layout=compact&theme=radical)
@@ -54,6 +63,8 @@ Here are a few projects I've worked on:
   - **Institution:** Coding Dojo
   - **Year:** 2024
   
+
+
 Feel free to reach out to me for any collaboration or job opportunities!
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=BellamineOussama.My-Projects)
