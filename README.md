@@ -57,17 +57,15 @@ Here are a few projects I've worked on:
   - **Institution:** Polytech Monastir
   - **Year of Study:** 2022 - 2023
 
+
+## 🏆 Certifications
 - **Bootcamp:** Professional Coding Bootcamp
   - **Institution:** Coding Dojo
   - **Year:** 2024
-
-## 🏆 Certifications
-- **E International Certification:** Issued by, Year
   
-## 📝 Blog Posts
-- [Blog Post 1](https://yourblog.com/blog-post-1)
 
 
 Feel free to reach out to me for any collaboration or job opportunities!
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=your-github-username.your-repo-name)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=BellamineOussama.My-Projects)
+
