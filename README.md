@@ -9,22 +9,10 @@ Hello! I'm Oussama, a passionate Full Stack Developer specializing in building d
 
 ## 🛠️ Skills
 
-### Frontend
-- **HTML**
-- **CSS/Bootstrap**
-- **JavaScript**
-- **Angular**
-- **React**
-
-### Backend
-- **Java / Spring Boot**
-- **Python / Flask & Django**
-- **MERN / ExpressJS**
-- **Microservices**
-
-### Database
-- **MySQL**
-- **MongoDB**
+### Frontend | Backend | Database
+- **Frontend:** HTML, CSS/Bootstrap, JavaScript, Angular, React
+- **Backend:** Java / Spring Boot, Python / Flask & Django, MERN / ExpressJS, Microservices
+- **Database:** MySQL, MongoDB
 
 ## 📈 GitHub Stats
 ![Oussama's GitHub stats](https://github-readme-stats.vercel.app/api?username=BellamineOussama&show_icons=true&theme=radical)
