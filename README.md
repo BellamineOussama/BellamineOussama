@@ -9,14 +9,25 @@ Hello! I'm Oussama, a passionate Full Stack Developer specializing in building d
 
 ## 🛠️ Skills
 
-### Frontend | Backend | Database
-- **Frontend:** HTML, CSS/Bootstrap, JavaScript, Angular, React
-- **Backend:** Java / Spring Boot, Python / Flask & Django, MERN / ExpressJS, Microservices
-- **Database:** MySQL, MongoDB
+### Frontend
+- **HTML**
+- **CSS/Bootstrap**
+- **JavaScript**
+- **Angular**
+- **React**
 
+### Backend
+- **Java / Spring Boot**
+- **Python / Flask & Django**
+- **MERN / ExpressJS**
+- **Microservices**
+
+### Database
+- **MySQL**
+- **MongoDB**
+  
 ## 📈 GitHub Stats
 ![Oussama's GitHub stats](https://github-readme-stats.vercel.app/api?username=BellamineOussama&show_icons=true&theme=radical)
-
 
 ## 📊 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BellamineOussama&layout=compact&theme=radical)
@@ -33,6 +44,7 @@ Here are a few projects I've worked on:
 - **Technologies:** HTML, CSS, JS, Bootstrap, React, Express, MongoDB.
 
 ## 📚 Education
+
 - **Degree:** Preparatory Degree in Engineering Sciences (PREPARATOIRE INTEGRE)
   - **Institution:** ESPRIT(École Supérieure Privée d'Ingénierie et de Technologies)
   - **Year of Study:** 2017 - 2020
@@ -40,18 +52,16 @@ Here are a few projects I've worked on:
 - **Degree:** Preparatory Degree in Engineering Sciences (PREPARATOIRE INTEGRE)
   - **Institution:** Polytech Monastir
   - **Year of Graduation:** 2021 - 2022
-
+  - 
 - **Degree:** First Year in Software Engineering (1ère Année en Génie Logiciel)
   - **Institution:** Polytech Monastir
   - **Year of Study:** 2022 - 2023
-
 
 ## 🏆 Certifications
 - **Bootcamp:** Professional Coding Bootcamp
   - **Institution:** Coding Dojo
   - **Year:** 2024
   
-
 
 Feel free to reach out to me for any collaboration or job opportunities!
 
