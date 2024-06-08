@@ -9,21 +9,21 @@
 Skills
 
 Frontend :
-.HTML
-.CSS/Bootstrap 
-.JavaScript 
-.Angular
-.React 
+-HTML
+-CSS/Bootstrap 
+-JavaScript 
+-Angular
+-React 
 
 Backend :
-.Java / Spring Boot 
-.Python / Flask & Django
-.MERN / ExpressJS
-.Microservices
+-Java / Spring Boot 
+-Python / Flask & Django
+-MERN / ExpressJS
+-Microservices
 
 Database :
-.MySQL
-.MongoDB
+-MySQL
+-MongoDB
 
 
 <!---
