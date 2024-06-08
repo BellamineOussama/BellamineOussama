@@ -3,7 +3,9 @@
 - 🔭 I’m currently working on developing web applications using Java Spring Boot and Angular.
 - 💼 I’m open to new job opportunities.
 - 📫 You can reach me via email at oussama.bellaminee@gmail.com
--Skills
+
+
+Skills
 
 Frontend :
   -HTML
