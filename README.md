@@ -41,26 +41,32 @@ Hello! I'm Oussama, a passionate Full Stack Developer specializing in building d
 Here are a few projects I've worked on:
 
 ### Project 1: [Ecommerce](https://github.com/BellamineOussama/My-Projects/tree/main/ecommerce)
-- **Description:** A brief description of the project.
+- **Description:** An advanced eCommerce web application designed for a seamless online shopping experience. This platform allows users to browse products, add items to their cart, and securely complete purchases. It features user authentication, product reviews, and an intuitive admin dashboard for managing inventory, orders, and customer data.
 - **Technologies:** HTML, CSS, JS, Bootstrap, React, Express, MongoDB.
 
-### Project 2: [Project Name](https://github.com/your-github-username/project-name)
-- **Description:** A brief description of the project.
-- **Technologies:** List of technologies used.
+## 📚 Education
+- **Degree:** Preparatory Degree in Engineering Sciences (PREPARATOIRE INTEGRE)
+  - **Institution:** ESPRIT(École Supérieure Privée d'Ingénierie et de Technologies)
+  - **Year of Study:** 2017 - 2020
 
+- **Degree:** Preparatory Degree in Engineering Sciences (PREPARATOIRE INTEGRE)
+  - **Institution:** Polytech Monastir
+  - **Year of Graduation:** 2021 - 2022
+
+- **Degree:** First Year in Software Engineering (1ère Année en Génie Logiciel)
+  - **Institution:** Polytech Monastir
+  - **Year of Study:** 2022 - 2023
+
+- **Bootcamp:** Professional Coding Bootcamp
+  - **Institution:** Coding Dojo
+  - **Year:** 2024
+
+## 🏆 Certifications
+- **E International Certification:** Issued by, Year
+  
 ## 📝 Blog Posts
 - [Blog Post 1](https://yourblog.com/blog-post-1)
 
-## 📚 Education
-- **Degree:** Your Degree
-- **Institution:** Your Institution
-- **Year of Graduation:** Year
-
-## 🏆 Certifications
-- **Certification 1:** Issued by, Year
-- **Certification 2:** Issued by, Year
-
----
 
 Feel free to reach out to me for any collaboration or job opportunities!
 
