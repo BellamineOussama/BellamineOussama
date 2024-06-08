@@ -40,7 +40,7 @@ Hello! I'm Oussama, a passionate Full Stack Developer specializing in building d
 ## 💼 Projects
 Here are a few projects I've worked on:
 
-### Project 1: [Project Name](https://github.com/BellamineOussama/ecommerce)
+### Project 1: [ecommerce](https://github.com/BellamineOussama/ecommerce)
 - **Description:** A brief description of the project.
 - **Technologies:** HTML, CSS, JS, Bootstrap, React, Express, MongoDB.
 
