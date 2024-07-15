@@ -5,7 +5,7 @@ Hello! I'm Oussama, a passionate Full Stack Developer specializing in building d
 
 - 🔭 Currently working on developing web applications using Java Spring Boot and Angular.
 - 💼 Open to new job opportunities.
-- 📫 How to reach me: [oussama.bellaminee@gmail.com](mailto:oussama.bellaminee@gmail.com)
+- 📫 How to reach me: [oussemabellamine@gmail.com](mailto:oussemabellamine@gmail.com)
 
 ## 🛠️ Skills
 
