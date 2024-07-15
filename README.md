@@ -49,21 +49,21 @@ Here are a few projects I've worked on:
 - **Technical Architecture:** The platform employs a robust technical architecture integrating a secure backend built with Spring Boot and MySQL, and a responsive frontend developed using Angular and Bootstrap. Docker is utilized for containerization, and Keycloak for authentication and authorization.
 - **Methodology:** Agile
   - **Sprint 1:**
-    Brainstorming
-    Creating wireframes
-    Structuring the website
-    Choosing the template
+    Brainstorming, 
+    Creating wireframes, 
+    Structuring the website, 
+    Choosing the template, 
     Task division (using Trello and Figma)
   - **Sprint 2:**
-      Designing database structure
-      Developing backend controllers
+      Designing database structure, 
+      Developing backend controllers, 
       Testing and debugging (using Spring Boot, MySQL, Postman, Java, IntelliJ IDEA)
   - **Sprint 3:**
-      Implementing Spring Security
-      Integrating Keycloak
+      Implementing Spring Security, 
+      Integrating Keycloak, 
       Dockerizing the application (using Docker and Keycloak)
   - **Sprint 4:**
-      Building Angular components and services
+      Building Angular components and services, 
       Connecting frontend with backend (using Angular, HTML, SCSS, TypeScript, Bootstrap)
 
 ## 📚 Education
