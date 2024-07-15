@@ -33,7 +33,7 @@ Hello! I'm Oussama, a passionate Full Stack Developer specializing in building d
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BellamineOussama&layout=compact&theme=radical)
 
 ## 📫 Contact
-- **Email:** [oussama.bellaminee@gmail.com](mailto:oussama.bellaminee@gmail.com)
+- **Email:** [oussemabellamine@gmail.com](mailto:oussemabellamine@gmail.com)
 - **LinkedIn:** [Oussama Bellamine](https://www.linkedin.com/in/oussama-bellamine-b15a46319/)
 
 ## 💼 Projects
