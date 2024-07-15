@@ -53,18 +53,18 @@ Here are a few projects I've worked on:
     Creating wireframes, 
     Structuring the website, 
     Choosing the template, 
-    Task division (using Trello and Figma)
+    Task division (using Trello and Figma).
   - **Sprint 2:**
       Designing database structure, 
       Developing backend controllers, 
-      Testing and debugging (using Spring Boot, MySQL, Postman, Java, IntelliJ IDEA)
+      Testing and debugging (using Spring Boot, MySQL, Postman, Java, IntelliJ IDEA).
   - **Sprint 3:**
       Implementing Spring Security, 
       Integrating Keycloak, 
-      Dockerizing the application (using Docker and Keycloak)
+      Dockerizing the application (using Docker and Keycloak).
   - **Sprint 4:**
       Building Angular components and services, 
-      Connecting frontend with backend (using Angular, HTML, SCSS, TypeScript, Bootstrap)
+      Connecting frontend with backend (using Angular, HTML, SCSS, TypeScript, Bootstrap).
 
 ## 📚 Education
 
