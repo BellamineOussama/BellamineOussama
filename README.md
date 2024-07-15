@@ -52,7 +52,7 @@ Here are a few projects I've worked on:
 - **Degree:** Preparatory Degree in Engineering Sciences (PREPARATOIRE INTEGRE)
   - **Institution:** Polytech Monastir
   - **Year of Graduation:** 2021 - 2022
-  - 
+    
 - **Degree:** First Year in Software Engineering (1ère Année en Génie Logiciel)
   - **Institution:** Polytech Monastir
   - **Year of Study:** 2022 - 2023
