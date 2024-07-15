@@ -34,7 +34,7 @@ Hello! I'm Oussama, a passionate Full Stack Developer specializing in building d
 
 ## 📫 Contact
 - **Email:** [oussama.bellaminee@gmail.com](mailto:oussama.bellaminee@gmail.com)
-- **LinkedIn:** [Oussama Bellamine](https://www.linkedin.com/in/oussama-bellamine-4bb2882b1/)
+- **LinkedIn:** [Oussama Bellamine](https://www.linkedin.com/in/oussama-bellamine-b15a46319/)
 
 ## 💼 Projects
 Here are a few projects I've worked on:
